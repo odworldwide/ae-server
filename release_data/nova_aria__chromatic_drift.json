@@ -1,12 +1,12 @@
 {
-  "artist": "Nova Aria",
-  "release": "Chromatic Drift",
-  "release_type": "album",
+  "artist": "okandi",
+  "release": "joined medway collective",
+  "release_type": "sighting",
   "seed": 47721,
   "editions": 500,
   "base_price": 240,
-  "royalty_bps": 500,
-  "following": { "tiktok": 0.45, "mainstream": 0.25, "gallery": 0.15, "collectors": 0.1, "niche": 0.05 },
+  "royalty_bps": 2500,
+  "following": { "tiktok": 0.45, "mainstream": 0.25, "gallery": 0.15, "collectors": 0.1, "niche": 1.05 },
   "beats": [
     { "t": "2025-09-01T12:00:00Z", "event": "teaser",         "delta": { "hype": 8,  "virality": 0.02 } },
     { "t": "2025-09-05T18:00:00Z", "event": "collab_reveal",  "delta": { "hype": 14, "press": 6 } },
